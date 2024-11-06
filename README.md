@@ -9,7 +9,7 @@ to run the script type npm start into the terminal
 
 installs:
 
-```
+```bash
   npm install react-router-dom
   npm install semantic-ui-react semantic-ui-css
 ```
