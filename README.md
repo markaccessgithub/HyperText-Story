@@ -1,4 +1,4 @@
-intalls:
+installs:
 
 npm install react-router-dom
 
